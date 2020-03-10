@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 3,
+        "stroke-opacity": 1
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -20,7 +24,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 3,
+        "stroke-opacity": 1
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -37,7 +45,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 3,
+        "stroke-opacity": 1
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -46,8 +58,50 @@
             45.853019643837214
           ],
           [
-            10.938332676887512,
-            45.851924889936704
+            10.938348770141602,
+            45.851917417139795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 3,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.938311219215393,
+            45.85295986261049
+          ],
+          [
+            10.938515067100525,
+            45.851921153538385
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0000ff",
+        "stroke-width": 3,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.937688946723938,
+            45.851958517510425
+          ],
+          [
+            10.938515067100525,
+            45.851917417139795
           ]
         ]
       }
@@ -59,12 +113,29 @@
         "type": "LineString",
         "coordinates": [
           [
-            10.938311219215393,
-            45.85295986261049
+            10.937415361404419,
+            45.853307340092
           ],
           [
-            10.938515067100525,
-            45.851921153538385
+            10.938042998313904,
+            45.85313546978111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.938091278076172,
+            45.85303832545738
+          ],
+          [
+            10.93832194805145,
+            45.85296733526736
           ]
         ]
       }
